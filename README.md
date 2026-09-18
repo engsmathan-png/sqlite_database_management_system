@@ -125,14 +125,15 @@ python3 --version
  ### Clone the Repository
 
 ```
-git clone <your-repository-url>
-cd <your-project-folder>
+git clone https://github.com/engsmathan-png/sqlite_database_management_system.git
+cd sqlite_database_management_system
+
 ```
 
  ### Run the Application
 
 ```
-python main.py
+python Database.py
 ```
 
  On some systems:
@@ -223,7 +224,7 @@ Record Added Successfully
 
  ## Author
 
- **Your Name**
+ **MATHAN**
 
  If you found this project useful, consider ⭐ starring the repository.
 
